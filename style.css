@@ -1,8 +1,9 @@
 body {
     background-color: lightblue;
+    text-align: center;
   }
   
-  h1 {
+h1 {
     color: navy;
     margin-left: 20px;
   }
